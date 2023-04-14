@@ -37,8 +37,7 @@ function App() {
            in malaley 
           </h1>
           <p class="max-w-sm text-center text-darkGrayishBlue md:text-left">
-            Manage makes it simple for software teams to plan day-to-day tasks
-            while keeping the larger team goals in view.
+           
           </p>
           
           
